@@ -1,0 +1,3 @@
+# Stup Engine
+
+## !!NO NEED TO TRY TO RUN AND BUILD IT, IT WON'T WORK (YET)!!
