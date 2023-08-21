@@ -1,0 +1,28 @@
+# CMake build directory
+/build/
+!/build/run.sh
+
+# Compiled object files and libraries
+*.o
+*.a
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.out
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+CTestTestfile.cmake
+
+# Generated files
+compile_commands.json
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+/.cache/
+/.cmake/
